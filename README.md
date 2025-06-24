@@ -1,1 +1,1 @@
-# Walmart-Order-Report-on-Looker-Studio
+📊 Interactive Looker Studio dashboard built using Walmart orders dataset. Visualizes key metrics like Sales, Profit, Quantity, and Category trends. Created from fictitious data - https://lookerstudio.google.com/u/1/reporting/3c3c713e-290c-4c4a-a5a6-169c4103a0cf/page/lw8OF
